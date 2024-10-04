@@ -1,248 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><Project>
-    <Timers nOfTimers="4">
-        <ClockEx id="1">
-            <Labels Label1="Crono1" Label2="Chrono1"/>
-            <Levels Lev1="5.0" Lev2="16.0" Lev3="20.0" Lev4="35.0" Lev5="30.0" Lev6="26.0" Max="100.0" Min="0.0" Step="0.5"/>
-            <Sun>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Sun>
-            <Mon>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Mon>
-            <Tue>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Tue>
-            <Wed>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Wed>
-            <Thu>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Thu>
-            <Fri>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Fri>
-            <Sat>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Sat>
-        </ClockEx>
-        <ClockEx id="2">
-            <Labels Label1="Crono2" Label2="Chrono2"/>
-            <Levels Lev1="5.0" Lev2="16.0" Lev3="20.0" Lev4="35.0" Lev5="30.0" Lev6="26.0" Max="100.0" Min="0.0" Step="0.5"/>
-            <Sun>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Sun>
-            <Mon>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Mon>
-            <Tue>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Tue>
-            <Wed>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Wed>
-            <Thu>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Thu>
-            <Fri>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Fri>
-            <Sat>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Sat>
-        </ClockEx>
-        <ClockEx id="3">
-            <Labels Label1="Crono3" Label2="Chrono3"/>
-            <Levels Lev1="5.0" Lev2="16.0" Lev3="20.0" Lev4="35.0" Lev5="30.0" Lev6="26.0" Max="100.0" Min="0.0" Step="0.5"/>
-            <Sun>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Sun>
-            <Mon>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Mon>
-            <Tue>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Tue>
-            <Wed>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Wed>
-            <Thu>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Thu>
-            <Fri>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Fri>
-            <Sat>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Sat>
-        </ClockEx>
-        <ClockEx id="4">
-            <Labels Label1="Crono4" Label2="Chrono4"/>
-            <Levels Lev1="5.0" Lev2="16.0" Lev3="20.0" Lev4="35.0" Lev5="30.0" Lev6="26.0" Max="100.0" Min="0.0" Step="0.5"/>
-            <Sun>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Sun>
-            <Mon>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Mon>
-            <Tue>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Tue>
-            <Wed>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Wed>
-            <Thu>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Thu>
-            <Fri>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Fri>
-            <Sat>
-                <Interval level="3" time="06:00"/>
-                <Interval level="2" time="08:30"/>
-                <Interval level="3" time="12:00"/>
-                <Interval level="2" time="14:00"/>
-                <Interval level="3" time="17:00"/>
-                <Interval level="2" time="22:00"/>
-            </Sat>
-        </ClockEx>
-    </Timers>
-    <Scene edgeIDcounter="51" nodeIDcounter="23" subSystemIDCounter="421" totalNOfNodes="96" version="7.2.5">
-        <CommonProperties BoardAddress="1" BoardType="mPID4DSP_2017" COMPort="COM3" COMPortSpeed="19200" IPAddress="192.168.1.67" IPPort="23" PortInUseType="1" ProjectHash="531324" ProjectName="mPID4DSP.prj" SkipTimers="false">
+    <Timers nOfTimers="0"/>
+    <Scene edgeIDcounter="60" nodeIDcounter="23" subSystemIDCounter="423" totalNOfNodes="99" version="7.2.5">
+        <CommonProperties BoardAddress="1" BoardType="mPID4DSP_2017" COMPort="COM3" COMPortSpeed="19200" IPAddress="192.168.1.67" IPPort="23" PortInUseType="1" ProjectHash="817666" ProjectName="mPID4DSP.prj" SkipTimers="false">
             <Port enabled="true" id="0" protocol="2" type="0">
                 <SerPort serNumBits="5" serParity="NONE" serSpeed="9600" serStopBits="1" writeToConfig="false"/>
                 <Ethernet ipAddr="192.168.1.67" ipGW="192.168.1.11" ipMAC="FF:FF:FF:FF:FF:FF" ipPort="23" ipSubnet="255.255.255.0"/>
@@ -260,8 +19,8 @@
                 <Ethernet ipAddr="192.168.1.67" ipGW="192.168.1.11" ipMAC="FF:FF:FF:FF:FF:FF" ipPort="23" ipSubnet="255.255.255.0"/>
             </Port>
         </CommonProperties>
-        <Node comment="SubSystem0" frameHeight="1408" frameWidth="2578" frameX="1911" frameY="-9" id="0" subSystemID="Sottosistema0" subSystemName="SubSystem1" type="Subsystem" x="385" y="555"/>
-        <Node address="500" comment="Sonda Accumulo" compensation="0.0" driverID="UI1" id="node1" inputType="0" maxVal="10.0" minVal="0.0" normallyClosed="false" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" txtbetavalue="3435" type="UniversalIN" x="0" y="0"/>
+        <Node comment="SubSystem0" frameHeight="1048" frameWidth="1938" frameX="-9" frameY="-9" id="0" subSystemID="Sottosistema0" subSystemName="SubSystem1" type="Subsystem" x="386" y="555"/>
+        <Node address="500" comment="Sonda Accumulo" compensation="0" driverID="UI1" id="node1" inputType="0" maxVal="10" minVal="0" normallyClosed="false" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" txtbetavalue="3435" type="UniversalIN" x="0" y="0"/>
         <Node NormallyClosed="false" PersistentData="false" address="950" comment="Valvola PT" driverID="K1" id="node10" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" type="DigitalOUT" x="1634" y="45"/>
         <Node NormallyClosed="false" PersistentData="false" address="975" comment="Pompa PT" driverID="K2" id="node11" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" type="DigitalOUT" x="1634" y="145"/>
         <Node NormallyClosed="false" PersistentData="false" address="1000" comment="Valvola P2" driverID="K3" id="node12" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" type="DigitalOUT" x="1634" y="245"/>
@@ -270,7 +29,7 @@
         <Node NormallyClosed="false" PersistentData="false" address="1075" comment="Serpentina" driverID="K6" id="node15" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" type="DigitalOUT" x="1634" y="545"/>
         <Node NormallyClosed="false" PersistentData="false" address="1100" comment="Valvola Deviatrice su sanitario" driverID="K7" id="node16" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" type="DigitalOUT" x="1634" y="645"/>
         <Node NormallyClosed="false" PersistentData="false" address="1125" comment="Valvola deviatrice su impianto" driverID="K8" id="node17" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" type="DigitalOUT" x="1634" y="745"/>
-        <Node CommIntervalMs="1000" ContinuosWrite="false" DisableMasterScaling="false" InterfaceID="2" IpAddress="0.0.0.0" IpPort="502" MasterTimeout="250" MaxNumErrors="14" MaxRaw="65535" MaxScaled="65535" MinRaw="0" MinScaled="0" NofDecimals="1.0" NofRows="9" ScalingType="0.0" WriteCoilFunctionIndex="0" WriteDelayOnStart="0" WriteHoldingFunctionIndex="1" address="1875" comment="PdC - SCALA" driverID="Modbus Station" id="node18" type="ModbusStation" x="517" y="847">
+        <Node CommIntervalMs="1000" ContinuosWrite="false" DisableMasterScaling="false" InterfaceID="2" IpAddress="0.0.0.0" IpPort="502" MasterTimeout="250" MaxNumErrors="14" MaxRaw="65535" MaxScaled="65535" MinRaw="0" MinScaled="0" NofDecimals="1" NofRows="9" ScalingType="0" WriteCoilFunctionIndex="0" WriteDelayOnStart="0" WriteHoldingFunctionIndex="1" address="1875" comment="PdC - SCALA" driverID="Modbus Station" id="node18" type="ModbusStation" x="524" y="961">
             <TableRow Address="708" Comment="TOutScambiatore" Function="03 - Read Holding" SlaveAddr="1" ZeroOnError="false" simAmplitude="1.0" simOffset="0.0" simPeriod="60.0" simType="Costant"/>
             <TableRow Address="710" Comment="TINImpianto" Function="03 - Read Holding" SlaveAddr="1" ZeroOnError="false" simAmplitude="1.0" simOffset="0.0" simPeriod="60.0" simType="Costant"/>
             <TableRow Address="1168" Comment="TEsterna" Function="03 - Read Holding" SlaveAddr="1" ZeroOnError="false" simAmplitude="1.0" simOffset="0.0" simPeriod="60.0" simType="Costant"/>
@@ -282,45 +41,53 @@
             <TableRow Address="17578" Comment="SetACS" Function="03 - Read Holding" SlaveAddr="1" ZeroOnError="false" simAmplitude="1.0" simOffset="0.0" simPeriod="60.0" simType="Costant"/>
         </Node>
         <Node comment="RS2 Master 96008N1" id="node19" type="Comment" x="490" y="24"/>
-        <Node address="525" comment="Chiamata PT" compensation="0.0" driverID="UI2" id="node2" inputType="0" maxVal="1.0" minVal="0.0" normallyClosed="false" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" txtbetavalue="3435" type="UniversalIN" x="-37" y="101"/>
-        <Node CommIntervalMs="5000" ContinuosWrite="false" DisableMasterScaling="false" InterfaceID="2" IpAddress="0.0.0.0" IpPort="502" MasterTimeout="250" MaxNumErrors="14" MaxRaw="65535" MaxScaled="65535" MinRaw="0" MinScaled="0" NofDecimals="1.0" NofRows="2" ScalingType="1.0" WriteCoilFunctionIndex="0" WriteDelayOnStart="60" WriteHoldingFunctionIndex="1" address="1925" comment="PdC - NO SCALA" driverID="Modbus Station" id="node20" type="ModbusStation" x="204" y="867">
+        <Node address="525" comment="Chiamata PT" compensation="0" driverID="UI2" id="node2" inputType="0" maxVal="1" minVal="0" normallyClosed="false" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" txtbetavalue="3435" type="UniversalIN" x="-37" y="101"/>
+        <Node CommIntervalMs="5000" ContinuosWrite="false" DisableMasterScaling="false" InterfaceID="2" IpAddress="0.0.0.0" IpPort="502" MasterTimeout="250" MaxNumErrors="14" MaxRaw="65535" MaxScaled="65535" MinRaw="0" MinScaled="0" NofDecimals="1.0" NofRows="5" ScalingType="1.0" WriteCoilFunctionIndex="0" WriteDelayOnStart="60" WriteHoldingFunctionIndex="1" address="1925" comment="PdC - NO SCALA" driverID="Modbus Station" id="node20" type="ModbusStation" x="-43" y="982">
             <TableRow Address="36608" Comment="Allarme(Bit3)" Function="03 - Read Holding" SlaveAddr="1" ZeroOnError="false" simAmplitude="1.0" simOffset="0.0" simPeriod="60.0" simType="Costant"/>
             <TableRow Address="33834" Comment="ScritturaStati" Function="16 - Write Multiple Registers" SlaveAddr="1" ZeroOnError="false" simAmplitude="1.0" simOffset="0.0" simPeriod="60.0" simType="Costant"/>
+            <TableRow Address="33284" Comment="StatoStBy2Freddo4Caldo6" Function="03 - Read Holding" SlaveAddr="1" ZeroOnError="false" simAmplitude="1.0" simOffset="0.0" simPeriod="60.0" simType="Costant"/>
+            <TableRow Address="34191" Comment="Sbrinamento bit2" Function="03 - Read Holding" SlaveAddr="1" ZeroOnError="false" simAmplitude="1.0" simOffset="0.0" simPeriod="60.0" simType="Costant"/>
+            <TableRow Address="33286" Comment="StatoACS" Function="03 - Read Holding" SlaveAddr="1" ZeroOnError="false" simAmplitude="1.0" simOffset="0.0" simPeriod="60.0" simType="Costant"/>
         </Node>
-        <Node comment="Attenzione! la macchina deve essere accesa almeno un minuto prima dell'invio dei comandi" id="node21" type="Comment" x="205" y="826"/>
+        <Node comment="Attenzione! la macchina deve essere accesa almeno un minuto prima dell'invio dei comandi" id="node21" type="Comment" x="213" y="905"/>
         <Node comment="Cambiare paramtero CF32 sulla PdC per impostare parità a none" id="node22" type="Comment" x="375" y="70"/>
-        <Node CommIntervalMs="5000" ContinuosWrite="false" DisableMasterScaling="false" InterfaceID="2" IpAddress="0.0.0.0" IpPort="502" MasterTimeout="250" MaxNumErrors="14" MaxRaw="65535" MaxScaled="65535" MinRaw="0" MinScaled="0" NofDecimals="1" NofRows="3" ScalingType="0" WriteCoilFunctionIndex="0" WriteDelayOnStart="0" WriteHoldingFunctionIndex="0" address="2975" comment="EXP2" driverID="Modbus Station" id="node23" type="ModbusStation" x="1576" y="908">
+        <Node CommIntervalMs="5000" ContinuosWrite="false" DisableMasterScaling="false" InterfaceID="2" IpAddress="0.0.0.0" IpPort="502" MasterTimeout="250" MaxNumErrors="14" MaxRaw="65535" MaxScaled="65535" MinRaw="0" MinScaled="0" NofDecimals="1" NofRows="3" ScalingType="0" WriteCoilFunctionIndex="0" WriteDelayOnStart="0" WriteHoldingFunctionIndex="0" address="2975" comment="EXP2" driverID="Modbus Station" id="node23" type="ModbusStation" x="1498" y="909">
             <TableRow Address="102" Comment="ChiamataACS" Function="06 - Preset Single Register" SlaveAddr="2" ZeroOnError="false" simAmplitude="1.0" simOffset="0.0" simPeriod="60.0" simType="Costant"/>
             <TableRow Address="101" Comment="CHiamataPdC" Function="06 - Preset Single Register" SlaveAddr="2" ZeroOnError="false" simAmplitude="1.0" simOffset="0.0" simPeriod="60.0" simType="Costant"/>
             <TableRow Address="100" Comment="Check" Function="03 - Read Holding" SlaveAddr="2" ZeroOnError="false" simAmplitude="1.0" simOffset="0.0" simPeriod="60.0" simType="Costant"/>
         </Node>
-        <Node address="550" comment="Chiamata P1" compensation="0.0" driverID="UI3" id="node3" inputType="0" maxVal="1.0" minVal="0.0" normallyClosed="false" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" txtbetavalue="3435" type="UniversalIN" x="-60" y="200"/>
+        <Node address="550" comment="Chiamata P1" compensation="0" driverID="UI3" id="node3" inputType="0" maxVal="1" minVal="0" normallyClosed="false" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" txtbetavalue="3435" type="UniversalIN" x="-60" y="200"/>
         <Node address="575" comment="Chiamata P2" compensation="0" driverID="UI4" id="node4" inputType="0" maxVal="1" minVal="0" normallyClosed="false" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" txtbetavalue="3435" type="UniversalIN" x="-23" y="298"/>
-        <Node address="600" comment="Sovrapproduzione" compensation="0.0" driverID="UI5" id="node5" inputType="4" maxVal="1.0" minVal="0.0" normallyClosed="false" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" txtbetavalue="3435" type="UniversalIN" x="-12" y="403"/>
-        <Node address="625" comment="TInerziale" compensation="0.0" driverID="UI6" id="node6" inputType="0" maxVal="10.0" minVal="0.0" normallyClosed="false" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" txtbetavalue="3435" type="UniversalIN" x="0" y="500"/>
+        <Node address="600" comment="Sovrapproduzione" compensation="0" driverID="UI5" id="node5" inputType="4" maxVal="1" minVal="0" normallyClosed="false" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" txtbetavalue="3435" type="UniversalIN" x="-12" y="403"/>
+        <Node address="625" comment="TInerziale" compensation="0" driverID="UI6" id="node6" inputType="0" maxVal="10" minVal="0" normallyClosed="false" simInputAmplitude="1.0" simInputOffset="0.0" simInputPeriod="60.0" simInputType="Costant" txtbetavalue="3435" type="UniversalIN" x="0" y="500"/>
         <Node Password="0" SimNofRows="28" address="650" comment="Comment" driverID="Monitor_2" id="node7" retroAlwaysOn="false" type="Monitor_4" x="371" y="129">
             <MainMenu>
                 <Menu Label="Accumulo" Label2="NewMenu" Password="0" Program="0">
                     <Var BinaryType="0" DataType="0" Default="0" ForceFront="false" Label="Temperatura" Label2="NewItem" MaxVal="99.0" MinVal="-99.0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="0.0" pinID="16"/>
                     <Var BinaryType="0" DataType="1" Default="0" ForceFront="false" Label="Serpentina" Label2="NewItem" MaxVal="99.0" MinVal="-99.0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="0.0" pinID="17"/>
-                    <Var BinaryType="0" DataType="2" Default="48" ForceFront="false" Label="Setpoint" Label2="NewItem" MaxVal="90" MinVal="30" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="25"/>
-                    <Var BinaryType="0" DataType="2" Default="4" ForceFront="false" Label="Hysteresi" Label2="NewItem" MaxVal="99" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="22"/>
+                    <Var BinaryType="0" DataType="2" Default="47" ForceFront="false" Label="Setpoint" Label2="NewItem" MaxVal="90" MinVal="30" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="25"/>
+                    <Var BinaryType="0" DataType="2" Default="6" ForceFront="false" Label="HystPDC" Label2="NewItem" MaxVal="99" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="22"/>
                     <Var BinaryType="0" DataType="2" Default="0" ForceFront="false" Label="UsaSoloSerp" Label2="NewItem" MaxVal="1" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="19"/>
-                    <Var BinaryType="0" DataType="2" Default="8" ForceFront="false" Label="HystSerp" Label2="NewItem" MaxVal="99" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="18"/>
+                    <Var BinaryType="0" DataType="2" Default="3" ForceFront="false" Label="HystSerp" Label2="NewItem" MaxVal="99" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="18"/>
                     <Var BinaryType="0" DataType="2" Default="70" ForceFront="false" Label="TMaxSovrapprod" Label2="NewItem" MaxVal="90" MinVal="20" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="20"/>
-                    <Var BinaryType="0" DataType="2" Default="5" ForceFront="false" Label="HystSovrapprod" Label2="NewItem" MaxVal="99" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="40"/>
+                    <Var BinaryType="0" DataType="2" Default="1" ForceFront="false" Label="HystSovrapprod" Label2="NewItem" MaxVal="99" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="40"/>
                 </Menu>
                 <Menu Label="PdC" Label2="NewMenu" Password="0" Program="0">
                     <Var BinaryType="0" DataType="2" Default="1" ForceFront="false" Label="Stato" Label2="NewItem" MaxVal="1" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="27"/>
+                    <Var BinaryType="0" DataType="0" Default="0" ForceFront="false" Label="Allarme" Label2="NewItem" MaxVal="0" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="0.0" pinID="32"/>
                     <Var BinaryType="0" DataType="0" Default="12" ForceFront="false" Label="SetFreddo" Label2="NewItem" MaxVal="20" MinVal="5" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="28"/>
-                    <Var BinaryType="0" DataType="0" Default="52" ForceFront="false" Label="Setcaldo" Label2="NewItem" MaxVal="55" MinVal="5" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="29"/>
-                    <Var BinaryType="0" DataType="0" Default="54" ForceFront="false" Label="SetACS" Label2="NewItem" MaxVal="65" MinVal="5" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="35"/>
+                    <Var BinaryType="0" DataType="0" Default="44" ForceFront="false" Label="Setcaldo" Label2="NewItem" MaxVal="55" MinVal="5" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="29"/>
+                    <Var BinaryType="0" DataType="0" Default="48" ForceFront="false" Label="SetACS" Label2="NewItem" MaxVal="65" MinVal="5" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="35"/>
                     <Var BinaryType="0" DataType="0" Default="0" ForceFront="false" Label="TOutScamb" Label2="NewItem" MaxVal="99.0" MinVal="-99.0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="0.0" pinID="30"/>
                     <Var BinaryType="0" DataType="0" Default="0" ForceFront="false" Label="TInImpianto" Label2="NewItem" MaxVal="99.0" MinVal="-99.0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="0.0" pinID="31"/>
-                    <Var BinaryType="0" DataType="0" Default="0" ForceFront="false" Label="Allarme" Label2="NewItem" MaxVal="0" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="0.0" pinID="32"/>
-                    <Var BinaryType="0" DataType="2" Default="0" ForceFront="false" Label="ResetAllarmi" Label2="NewItem" MaxVal="1" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="33"/>
-                    <Var BinaryType="0" DataType="2" Default="6" ForceFront="false" Label="TempoInvCom" Label2="NewItem" MaxVal="99.0" MinVal="6" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="34"/>
+                    <Var BinaryType="0" DataType="1" Default="0" ForceFront="false" Label="StandBy" Label2="NewItem" MaxVal="99.0" MinVal="-99.0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="0.0" pinID="41"/>
+                    <Var BinaryType="0" DataType="1" Default="0" ForceFront="false" Label="ModoFreddo" Label2="NewItem" MaxVal="99.0" MinVal="-99.0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="0.0" pinID="42"/>
+                    <Var BinaryType="0" DataType="1" Default="0" ForceFront="false" Label="ModoCaldo" Label2="NewItem" MaxVal="99.0" MinVal="-99.0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="0.0" pinID="43"/>
+                    <Var BinaryType="0" DataType="1" Default="0" ForceFront="false" Label="ModoACS" Label2="NewItem" MaxVal="99.0" MinVal="-99.0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="0.0" pinID="44"/>
+                    <Var BinaryType="0" DataType="1" Default="0" ForceFront="false" Label="Sbrinamento" Label2="NewItem" MaxVal="99.0" MinVal="-99.0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="0.0" pinID="45"/>
                     <Var BinaryType="0" DataType="2" Default="0" ForceFront="false" Label="ForzaON" Label2="NewItem" MaxVal="1" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="39"/>
+                    <Var BinaryType="0" DataType="2" Default="6" ForceFront="false" Label="TempoInvCom" Label2="NewItem" MaxVal="99.0" MinVal="6" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="34"/>
+                    <Var BinaryType="0" DataType="2" Default="0" ForceFront="false" Label="ResetAllarmi" Label2="NewItem" MaxVal="1" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="33"/>
                 </Menu>
                 <Var BinaryType="1" DataType="1" Default="0" ForceFront="false" Label="Stagione" Label2="NewItem" MaxVal="1" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="14"/>
                 <Var BinaryType="0" DataType="0" Default="1" ForceFront="false" Label="Ricircolo" Label2="NewItem" MaxVal="1" MinVal="0" Program="0" SimAmpl="1.0" SimOffset="1.0" SimType="0" Simperiod="1.0" Step="1" pinID="15"/>
@@ -348,321 +115,385 @@
         </Node>
         <Node address="900" comment="Comment" driverID="Y1" id="node8" oldFirmware="false" type="AnalogOUT" x="1838" y="94"/>
         <Node address="925" comment="Comment" driverID="Y2" id="node9" oldFirmware="false" type="AnalogOUT" x="1838" y="194"/>
-        <Edge color="-16776961" id="edge12" sourceNode="node7" sourcePin="22" targetNode="0" targetPin="10">
-            <controlPoint x="642" y="355"/>
-            <controlPoint x="788" y="355"/>
-            <controlPoint x="788" y="488"/>
-            <controlPoint x="389" y="488"/>
-            <controlPoint x="389" y="622"/>
-            <controlPoint x="398" y="661"/>
+        <Edge color="-16776961" id="edge21" sourceNode="0" sourcePin="15" targetNode="node17" targetPin="0">
+            <controlPoint x="798" y="637"/>
+            <controlPoint x="1224" y="637"/>
+            <controlPoint x="1224" y="755"/>
+            <controlPoint x="1638" y="755"/>
         </Edge>
-        <Edge color="-16776961" id="edge46" sourceNode="0" sourcePin="29" targetNode="node7" targetPin="37">
-            <controlPoint x="700" y="721"/>
-            <controlPoint x="698" y="721"/>
-            <controlPoint x="698" y="514"/>
-            <controlPoint x="380" y="514"/>
-            <controlPoint x="380" y="271"/>
-            <controlPoint x="384" y="271"/>
-        </Edge>
-        <Edge color="-16776961" id="edge4" sourceNode="node3" sourcePin="0" targetNode="0" targetPin="2">
-            <controlPoint x="176" y="210"/>
-            <controlPoint x="289" y="210"/>
-            <controlPoint x="289" y="589"/>
-            <controlPoint x="389" y="589"/>
-        </Edge>
-        <Edge color="-16776961" id="edge37" sourceNode="node4" sourcePin="0" targetNode="0" targetPin="22">
-            <controlPoint x="213" y="308"/>
-            <controlPoint x="307" y="308"/>
-            <controlPoint x="307" y="721"/>
-            <controlPoint x="389" y="721"/>
-        </Edge>
-        <Edge color="-16776961" id="edge48" sourceNode="node5" sourcePin="0" targetNode="0" targetPin="31">
-            <controlPoint x="224" y="413"/>
-            <controlPoint x="313" y="413"/>
-            <controlPoint x="313" y="769"/>
-            <controlPoint x="389" y="769"/>
-        </Edge>
-        <Edge color="-16776961" id="edge45" sourceNode="0" sourcePin="28" targetNode="node7" targetPin="24">
-            <controlPoint x="700" y="709"/>
-            <controlPoint x="698" y="709"/>
-            <controlPoint x="698" y="514"/>
-            <controlPoint x="380" y="514"/>
-            <controlPoint x="380" y="199"/>
-            <controlPoint x="384" y="199"/>
-        </Edge>
-        <Edge color="-16776961" id="edge3" sourceNode="node2" sourcePin="0" targetNode="0" targetPin="1">
-            <controlPoint x="199" y="111"/>
-            <controlPoint x="300" y="111"/>
-            <controlPoint x="300" y="577"/>
-            <controlPoint x="389" y="577"/>
-        </Edge>
-        <Edge color="-16776961" id="edge51" sourceNode="0" sourcePin="32" targetNode="node23" targetPin="2">
-            <controlPoint x="709" y="733"/>
-            <controlPoint x="1102" y="733"/>
-            <controlPoint x="1102" y="930"/>
-            <controlPoint x="1580" y="930"/>
-        </Edge>
-        <Edge color="-16776961" id="edge36" sourceNode="node6" sourcePin="0" targetNode="node7" targetPin="36">
-            <controlPoint x="236" y="510"/>
-            <controlPoint x="310" y="510"/>
-            <controlPoint x="310" y="259"/>
-            <controlPoint x="375" y="259"/>
+        <Edge color="-16776961" id="edge26" sourceNode="node20" sourcePin="2" targetNode="0" targetPin="20">
+            <controlPoint x="373" y="1004"/>
+            <controlPoint x="388" y="1004"/>
+            <controlPoint x="388" y="709"/>
+            <controlPoint x="390" y="709"/>
         </Edge>
         <Edge color="-16776961" id="edge27" sourceNode="0" sourcePin="19" targetNode="node20" targetPin="3">
-            <controlPoint x="700" y="649"/>
-            <controlPoint x="698" y="649"/>
-            <controlPoint x="698" y="829"/>
-            <controlPoint x="213" y="829"/>
-            <controlPoint x="213" y="889"/>
-            <controlPoint x="217" y="889"/>
+            <controlPoint x="789" y="649"/>
+            <controlPoint x="787" y="649"/>
+            <controlPoint x="787" y="904"/>
+            <controlPoint x="-34" y="904"/>
+            <controlPoint x="-34" y="1004"/>
+            <controlPoint x="-30" y="1004"/>
+        </Edge>
+        <Edge color="-16776961" id="edge33" sourceNode="node7" sourcePin="35" targetNode="node18" targetPin="7">
+            <controlPoint x="698" y="439"/>
+            <controlPoint x="766" y="439"/>
+            <controlPoint x="766" y="927"/>
+            <controlPoint x="439" y="927"/>
+            <controlPoint x="439" y="1007"/>
+            <controlPoint x="537" y="1007"/>
+        </Edge>
+        <Edge color="-16776961" id="edge2" sourceNode="node1" sourcePin="0" targetNode="0" targetPin="5">
+            <controlPoint x="229" y="10"/>
+            <controlPoint x="316" y="10"/>
+            <controlPoint x="316" y="601"/>
+            <controlPoint x="390" y="601"/>
+        </Edge>
+        <Edge color="-16776961" id="edge32" sourceNode="node7" sourcePin="29" targetNode="node18" targetPin="6">
+            <controlPoint x="698" y="403"/>
+            <controlPoint x="766" y="403"/>
+            <controlPoint x="766" y="889"/>
+            <controlPoint x="467" y="889"/>
+            <controlPoint x="467" y="995"/>
+            <controlPoint x="537" y="995"/>
+        </Edge>
+        <Edge color="-16776961" id="edge13" sourceNode="node7" sourcePin="25" targetNode="0" targetPin="6">
+            <controlPoint x="698" y="367"/>
+            <controlPoint x="696" y="367"/>
+            <controlPoint x="696" y="514"/>
+            <controlPoint x="395" y="514"/>
+            <controlPoint x="395" y="613"/>
+            <controlPoint x="399" y="613"/>
+        </Edge>
+        <Edge color="-16776961" id="edge30" sourceNode="node7" sourcePin="33" targetNode="0" targetPin="16">
+            <controlPoint x="698" y="415"/>
+            <controlPoint x="696" y="415"/>
+            <controlPoint x="696" y="514"/>
+            <controlPoint x="395" y="514"/>
+            <controlPoint x="395" y="673"/>
+            <controlPoint x="399" y="673"/>
+        </Edge>
+        <Edge color="-16776961" id="edge40" sourceNode="0" sourcePin="23" targetNode="node23" targetPin="3">
+            <controlPoint x="798" y="673"/>
+            <controlPoint x="1156" y="673"/>
+            <controlPoint x="1156" y="943"/>
+            <controlPoint x="1502" y="943"/>
+        </Edge>
+        <Edge color="-16776961" id="edge24" sourceNode="node18" sourcePin="3" targetNode="node7" targetPin="31">
+            <controlPoint x="823" y="995"/>
+            <controlPoint x="1034" y="996"/>
+            <controlPoint x="1034" y="841"/>
+            <controlPoint x="237" y="841"/>
+            <controlPoint x="237" y="235"/>
+            <controlPoint x="384" y="235"/>
+        </Edge>
+        <Edge color="-16776961" id="edge19" sourceNode="0" sourcePin="12" targetNode="node15" targetPin="0">
+            <controlPoint x="798" y="601"/>
+            <controlPoint x="1224" y="601"/>
+            <controlPoint x="1224" y="555"/>
+            <controlPoint x="1638" y="555"/>
+        </Edge>
+        <Edge color="-16776961" id="edge9" sourceNode="node7" sourcePin="18" targetNode="0" targetPin="7">
+            <controlPoint x="698" y="319"/>
+            <controlPoint x="696" y="319"/>
+            <controlPoint x="696" y="514"/>
+            <controlPoint x="395" y="514"/>
+            <controlPoint x="395" y="625"/>
+            <controlPoint x="399" y="625"/>
+        </Edge>
+        <Edge color="-16776961" id="edge59" sourceNode="0" sourcePin="41" targetNode="node7" targetPin="44">
+            <controlPoint x="789" y="793"/>
+            <controlPoint x="787" y="793"/>
+            <controlPoint x="787" y="514"/>
+            <controlPoint x="380" y="514"/>
+            <controlPoint x="380" y="331"/>
+            <controlPoint x="384" y="331"/>
+        </Edge>
+        <Edge color="-16776961" id="edge20" sourceNode="0" sourcePin="11" targetNode="node16" targetPin="0">
+            <controlPoint x="798" y="589"/>
+            <controlPoint x="1224" y="589"/>
+            <controlPoint x="1224" y="655"/>
+            <controlPoint x="1638" y="655"/>
+        </Edge>
+        <Edge color="-16776961" id="edge29" sourceNode="node7" sourcePin="34" targetNode="0" targetPin="17">
+            <controlPoint x="698" y="427"/>
+            <controlPoint x="696" y="427"/>
+            <controlPoint x="696" y="514"/>
+            <controlPoint x="395" y="514"/>
+            <controlPoint x="395" y="685"/>
+            <controlPoint x="399" y="685"/>
+        </Edge>
+        <Edge color="-16776961" id="edge53" sourceNode="node20" sourcePin="5" targetNode="0" targetPin="35">
+            <controlPoint x="373" y="1028"/>
+            <controlPoint x="388" y="1028"/>
+            <controlPoint x="388" y="805"/>
+            <controlPoint x="390" y="805"/>
+        </Edge>
+        <Edge color="-16776961" id="edge58" sourceNode="0" sourcePin="40" targetNode="node7" targetPin="45">
+            <controlPoint x="789" y="781"/>
+            <controlPoint x="787" y="781"/>
+            <controlPoint x="787" y="514"/>
+            <controlPoint x="380" y="514"/>
+            <controlPoint x="380" y="343"/>
+            <controlPoint x="384" y="343"/>
+        </Edge>
+        <Edge color="-16776961" id="edge17" sourceNode="0" sourcePin="14" targetNode="node13" targetPin="0">
+            <controlPoint x="798" y="625"/>
+            <controlPoint x="1224" y="625"/>
+            <controlPoint x="1224" y="355"/>
+            <controlPoint x="1638" y="355"/>
+        </Edge>
+        <Edge color="-16776961" id="edge56" sourceNode="0" sourcePin="38" targetNode="node7" targetPin="42">
+            <controlPoint x="789" y="757"/>
+            <controlPoint x="787" y="757"/>
+            <controlPoint x="787" y="514"/>
+            <controlPoint x="380" y="514"/>
+            <controlPoint x="380" y="307"/>
+            <controlPoint x="384" y="307"/>
         </Edge>
         <Edge color="-16776961" id="edge42" sourceNode="0" sourcePin="25" targetNode="node7" targetPin="38">
-            <controlPoint x="700" y="685"/>
-            <controlPoint x="698" y="685"/>
-            <controlPoint x="698" y="514"/>
+            <controlPoint x="789" y="685"/>
+            <controlPoint x="787" y="685"/>
+            <controlPoint x="787" y="514"/>
             <controlPoint x="380" y="514"/>
             <controlPoint x="380" y="283"/>
             <controlPoint x="384" y="283"/>
         </Edge>
-        <Edge color="-16776961" id="edge2" sourceNode="node1" sourcePin="0" targetNode="0" targetPin="5">
-            <controlPoint x="236" y="10"/>
-            <controlPoint x="319" y="10"/>
-            <controlPoint x="319" y="601"/>
-            <controlPoint x="389" y="601"/>
-        </Edge>
-        <Edge color="-16776961" id="edge34" sourceNode="0" sourcePin="21" targetNode="node7" targetPin="32">
-            <controlPoint x="700" y="661"/>
-            <controlPoint x="698" y="661"/>
-            <controlPoint x="698" y="514"/>
-            <controlPoint x="380" y="514"/>
-            <controlPoint x="380" y="247"/>
-            <controlPoint x="384" y="247"/>
-        </Edge>
-        <Edge color="-16776961" id="edge41" sourceNode="node23" sourcePin="4" targetNode="0" targetPin="24">
-            <controlPoint x="1791" y="930"/>
-            <controlPoint x="1870" y="930"/>
-            <controlPoint x="1870" y="837"/>
-            <controlPoint x="394" y="837"/>
-            <controlPoint x="394" y="733"/>
-            <controlPoint x="398" y="733"/>
-        </Edge>
-        <Edge color="-16776961" id="edge15" sourceNode="0" sourcePin="4" targetNode="node12" targetPin="0">
-            <controlPoint x="709" y="577"/>
-            <controlPoint x="1165" y="577"/>
-            <controlPoint x="1165" y="255"/>
-            <controlPoint x="1638" y="255"/>
-        </Edge>
-        <Edge color="-16776961" id="edge26" sourceNode="node20" sourcePin="2" targetNode="0" targetPin="20">
-            <controlPoint x="422" y="889"/>
-            <controlPoint x="463" y="889"/>
-            <controlPoint x="463" y="785"/>
-            <controlPoint x="269" y="785"/>
-            <controlPoint x="269" y="670"/>
-            <controlPoint x="398" y="709"/>
-        </Edge>
-        <Edge color="-16776961" id="edge32" sourceNode="node7" sourcePin="29" targetNode="node18" targetPin="6">
-            <controlPoint x="642" y="403"/>
-            <controlPoint x="820" y="403"/>
-            <controlPoint x="820" y="654"/>
-            <controlPoint x="526" y="654"/>
-            <controlPoint x="526" y="881"/>
-            <controlPoint x="530" y="881"/>
-        </Edge>
-        <Edge color="-16776961" id="edge20" sourceNode="0" sourcePin="11" targetNode="node16" targetPin="0">
-            <controlPoint x="709" y="589"/>
-            <controlPoint x="1162" y="589"/>
-            <controlPoint x="1162" y="655"/>
-            <controlPoint x="1638" y="655"/>
-        </Edge>
-        <Edge color="-16776961" id="edge13" sourceNode="node7" sourcePin="25" targetNode="0" targetPin="6">
-            <controlPoint x="642" y="367"/>
-            <controlPoint x="716" y="367"/>
-            <controlPoint x="716" y="488"/>
-            <controlPoint x="389" y="488"/>
-            <controlPoint x="389" y="574"/>
-            <controlPoint x="398" y="613"/>
-        </Edge>
-        <Edge color="-16776961" id="edge33" sourceNode="node7" sourcePin="35" targetNode="node18" targetPin="7">
-            <controlPoint x="642" y="439"/>
-            <controlPoint x="780" y="439"/>
-            <controlPoint x="780" y="648"/>
-            <controlPoint x="526" y="648"/>
-            <controlPoint x="526" y="893"/>
-            <controlPoint x="530" y="893"/>
-        </Edge>
-        <Edge color="-16776961" id="edge43" sourceNode="node7" sourcePin="39" targetNode="0" targetPin="26">
-            <controlPoint x="642" y="451"/>
-            <controlPoint x="695" y="451"/>
-            <controlPoint x="695" y="488"/>
-            <controlPoint x="352" y="488"/>
-            <controlPoint x="352" y="706"/>
-            <controlPoint x="398" y="745"/>
-        </Edge>
-        <Edge color="-16776961" id="edge23" sourceNode="node18" sourcePin="4" targetNode="node7" targetPin="26">
-            <controlPoint x="740" y="893"/>
-            <controlPoint x="794" y="893"/>
-            <controlPoint x="794" y="654"/>
-            <controlPoint x="380" y="654"/>
-            <controlPoint x="380" y="211"/>
-            <controlPoint x="384" y="211"/>
-        </Edge>
-        <Edge color="-16776961" id="edge31" sourceNode="node7" sourcePin="28" targetNode="node18" targetPin="5">
-            <controlPoint x="642" y="391"/>
-            <controlPoint x="852" y="391"/>
-            <controlPoint x="852" y="654"/>
-            <controlPoint x="526" y="654"/>
-            <controlPoint x="526" y="869"/>
-            <controlPoint x="530" y="869"/>
-        </Edge>
-        <Edge color="-16776961" id="edge17" sourceNode="0" sourcePin="14" targetNode="node13" targetPin="0">
-            <controlPoint x="709" y="625"/>
-            <controlPoint x="1180" y="625"/>
-            <controlPoint x="1180" y="355"/>
-            <controlPoint x="1638" y="355"/>
-        </Edge>
-        <Edge color="-16776961" id="edge30" sourceNode="node7" sourcePin="33" targetNode="0" targetPin="16">
-            <controlPoint x="642" y="415"/>
-            <controlPoint x="636" y="415"/>
-            <controlPoint x="636" y="514"/>
-            <controlPoint x="394" y="514"/>
-            <controlPoint x="394" y="673"/>
-            <controlPoint x="398" y="673"/>
-        </Edge>
-        <Edge color="-16776961" id="edge10" sourceNode="node7" sourcePin="19" targetNode="0" targetPin="8">
-            <controlPoint x="642" y="331"/>
-            <controlPoint x="744" y="331"/>
-            <controlPoint x="744" y="488"/>
-            <controlPoint x="389" y="488"/>
-            <controlPoint x="389" y="598"/>
-            <controlPoint x="398" y="637"/>
-        </Edge>
-        <Edge color="-16776961" id="edge8" sourceNode="node7" sourcePin="15" targetNode="node14" targetPin="0">
-            <controlPoint x="651" y="307"/>
-            <controlPoint x="1086" y="307"/>
-            <controlPoint x="1086" y="455"/>
-            <controlPoint x="1638" y="455"/>
-        </Edge>
-        <Edge color="-16776961" id="edge7" sourceNode="node7" sourcePin="14" targetNode="0" targetPin="0">
-            <controlPoint x="642" y="295"/>
-            <controlPoint x="811" y="295"/>
-            <controlPoint x="811" y="488"/>
-            <controlPoint x="389" y="488"/>
-            <controlPoint x="389" y="526"/>
-            <controlPoint x="398" y="565"/>
-        </Edge>
-        <Edge color="-16776961" id="edge44" sourceNode="0" sourcePin="27" targetNode="node7" targetPin="23">
-            <controlPoint x="700" y="697"/>
-            <controlPoint x="698" y="697"/>
-            <controlPoint x="698" y="514"/>
-            <controlPoint x="380" y="514"/>
-            <controlPoint x="380" y="187"/>
-            <controlPoint x="384" y="187"/>
-        </Edge>
-        <Edge color="-16776961" id="edge40" sourceNode="0" sourcePin="23" targetNode="node23" targetPin="3">
-            <controlPoint x="709" y="673"/>
-            <controlPoint x="1124" y="673"/>
-            <controlPoint x="1124" y="942"/>
-            <controlPoint x="1580" y="942"/>
-        </Edge>
-        <Edge color="-16776961" id="edge24" sourceNode="node18" sourcePin="3" targetNode="node7" targetPin="31">
-            <controlPoint x="740" y="881"/>
-            <controlPoint x="794" y="881"/>
-            <controlPoint x="794" y="654"/>
-            <controlPoint x="380" y="654"/>
-            <controlPoint x="380" y="235"/>
-            <controlPoint x="384" y="235"/>
-        </Edge>
-        <Edge color="-16776961" id="edge49" sourceNode="node5" sourcePin="0" targetNode="node7" targetPin="21">
-            <controlPoint x="224" y="413"/>
-            <controlPoint x="306" y="413"/>
-            <controlPoint x="306" y="175"/>
-            <controlPoint x="375" y="175"/>
-        </Edge>
-        <Edge color="-16776961" id="edge29" sourceNode="node7" sourcePin="34" targetNode="0" targetPin="17">
-            <controlPoint x="642" y="427"/>
-            <controlPoint x="636" y="427"/>
-            <controlPoint x="636" y="514"/>
-            <controlPoint x="394" y="514"/>
-            <controlPoint x="394" y="685"/>
-            <controlPoint x="398" y="685"/>
-        </Edge>
-        <Edge color="-16776961" id="edge9" sourceNode="node7" sourcePin="18" targetNode="0" targetPin="7">
-            <controlPoint x="642" y="319"/>
-            <controlPoint x="770" y="319"/>
-            <controlPoint x="770" y="488"/>
-            <controlPoint x="389" y="488"/>
-            <controlPoint x="389" y="586"/>
-            <controlPoint x="398" y="625"/>
-        </Edge>
-        <Edge color="-16776961" id="edge28" sourceNode="node7" sourcePin="27" targetNode="0" targetPin="18">
-            <controlPoint x="642" y="379"/>
-            <controlPoint x="706" y="379"/>
-            <controlPoint x="706" y="488"/>
-            <controlPoint x="389" y="488"/>
-            <controlPoint x="389" y="658"/>
-            <controlPoint x="398" y="697"/>
-        </Edge>
-        <Edge color="-16776961" id="edge1" sourceNode="node1" sourcePin="0" targetNode="node7" targetPin="16">
-            <controlPoint x="236" y="10"/>
-            <controlPoint x="310" y="10"/>
-            <controlPoint x="310" y="151"/>
-            <controlPoint x="375" y="151"/>
-        </Edge>
-        <Edge color="-16776961" id="edge16" sourceNode="0" sourcePin="13" targetNode="node11" targetPin="0">
-            <controlPoint x="709" y="613"/>
-            <controlPoint x="1153" y="613"/>
-            <controlPoint x="1153" y="155"/>
-            <controlPoint x="1638" y="155"/>
-        </Edge>
-        <Edge color="-16776961" id="edge47" sourceNode="node7" sourcePin="40" targetNode="0" targetPin="30">
-            <controlPoint x="642" y="463"/>
-            <controlPoint x="636" y="463"/>
-            <controlPoint x="636" y="514"/>
-            <controlPoint x="394" y="514"/>
-            <controlPoint x="394" y="757"/>
-            <controlPoint x="398" y="757"/>
-        </Edge>
-        <Edge color="-16776961" id="edge11" sourceNode="node7" sourcePin="20" targetNode="0" targetPin="9">
-            <controlPoint x="642" y="343"/>
-            <controlPoint x="723" y="343"/>
-            <controlPoint x="723" y="488"/>
-            <controlPoint x="389" y="488"/>
-            <controlPoint x="389" y="610"/>
-            <controlPoint x="398" y="649"/>
-        </Edge>
-        <Edge color="-16776961" id="edge19" sourceNode="0" sourcePin="12" targetNode="node15" targetPin="0">
-            <controlPoint x="709" y="601"/>
-            <controlPoint x="1189" y="601"/>
-            <controlPoint x="1189" y="555"/>
-            <controlPoint x="1638" y="555"/>
-        </Edge>
-        <Edge color="-16776961" id="edge25" sourceNode="node18" sourcePin="2" targetNode="node7" targetPin="30">
-            <controlPoint x="740" y="869"/>
-            <controlPoint x="794" y="869"/>
-            <controlPoint x="794" y="654"/>
-            <controlPoint x="380" y="654"/>
-            <controlPoint x="380" y="223"/>
-            <controlPoint x="384" y="223"/>
+        <Edge color="-16776961" id="edge36" sourceNode="node6" sourcePin="0" targetNode="node7" targetPin="36">
+            <controlPoint x="229" y="510"/>
+            <controlPoint x="308" y="510"/>
+            <controlPoint x="308" y="259"/>
+            <controlPoint x="375" y="259"/>
         </Edge>
         <Edge color="-16776961" id="edge22" sourceNode="0" sourcePin="12" targetNode="node7" targetPin="17">
-            <controlPoint x="700" y="601"/>
-            <controlPoint x="698" y="601"/>
-            <controlPoint x="698" y="514"/>
+            <controlPoint x="789" y="601"/>
+            <controlPoint x="787" y="601"/>
+            <controlPoint x="787" y="514"/>
             <controlPoint x="380" y="514"/>
             <controlPoint x="380" y="163"/>
             <controlPoint x="384" y="163"/>
         </Edge>
+        <Edge color="-16776961" id="edge48" sourceNode="node5" sourcePin="0" targetNode="0" targetPin="31">
+            <controlPoint x="213" y="413"/>
+            <controlPoint x="308" y="413"/>
+            <controlPoint x="308" y="769"/>
+            <controlPoint x="390" y="769"/>
+        </Edge>
+        <Edge color="-16776961" id="edge47" sourceNode="node7" sourcePin="40" targetNode="0" targetPin="30">
+            <controlPoint x="698" y="463"/>
+            <controlPoint x="696" y="463"/>
+            <controlPoint x="696" y="514"/>
+            <controlPoint x="395" y="514"/>
+            <controlPoint x="395" y="757"/>
+            <controlPoint x="399" y="757"/>
+        </Edge>
+        <Edge color="-16776961" id="edge52" sourceNode="node20" sourcePin="4" targetNode="0" targetPin="34">
+            <controlPoint x="373" y="1016"/>
+            <controlPoint x="388" y="1016"/>
+            <controlPoint x="388" y="793"/>
+            <controlPoint x="390" y="793"/>
+        </Edge>
+        <Edge color="-16776961" id="edge45" sourceNode="0" sourcePin="28" targetNode="node7" targetPin="24">
+            <controlPoint x="789" y="709"/>
+            <controlPoint x="787" y="709"/>
+            <controlPoint x="787" y="514"/>
+            <controlPoint x="380" y="514"/>
+            <controlPoint x="380" y="199"/>
+            <controlPoint x="384" y="199"/>
+        </Edge>
+        <Edge color="-16776961" id="edge57" sourceNode="0" sourcePin="39" targetNode="node7" targetPin="43">
+            <controlPoint x="789" y="769"/>
+            <controlPoint x="787" y="769"/>
+            <controlPoint x="787" y="514"/>
+            <controlPoint x="380" y="514"/>
+            <controlPoint x="380" y="319"/>
+            <controlPoint x="384" y="319"/>
+        </Edge>
+        <Edge color="-16776961" id="edge44" sourceNode="0" sourcePin="27" targetNode="node7" targetPin="23">
+            <controlPoint x="789" y="697"/>
+            <controlPoint x="787" y="697"/>
+            <controlPoint x="787" y="514"/>
+            <controlPoint x="380" y="514"/>
+            <controlPoint x="380" y="187"/>
+            <controlPoint x="384" y="187"/>
+        </Edge>
+        <Edge color="-16776961" id="edge23" sourceNode="node18" sourcePin="4" targetNode="node7" targetPin="26">
+            <controlPoint x="823" y="1007"/>
+            <controlPoint x="1073" y="1008"/>
+            <controlPoint x="1073" y="886"/>
+            <controlPoint x="182" y="886"/>
+            <controlPoint x="182" y="211"/>
+            <controlPoint x="384" y="211"/>
+        </Edge>
+        <Edge color="-16776961" id="edge34" sourceNode="0" sourcePin="21" targetNode="node7" targetPin="32">
+            <controlPoint x="789" y="661"/>
+            <controlPoint x="787" y="661"/>
+            <controlPoint x="787" y="514"/>
+            <controlPoint x="380" y="514"/>
+            <controlPoint x="380" y="247"/>
+            <controlPoint x="384" y="247"/>
+        </Edge>
+        <Edge color="-16776961" id="edge55" sourceNode="0" sourcePin="37" targetNode="node7" targetPin="41">
+            <controlPoint x="789" y="745"/>
+            <controlPoint x="787" y="745"/>
+            <controlPoint x="787" y="514"/>
+            <controlPoint x="380" y="514"/>
+            <controlPoint x="380" y="295"/>
+            <controlPoint x="384" y="295"/>
+        </Edge>
+        <Edge color="-16776961" id="edge1" sourceNode="node1" sourcePin="0" targetNode="node7" targetPin="16">
+            <controlPoint x="229" y="10"/>
+            <controlPoint x="308" y="10"/>
+            <controlPoint x="308" y="151"/>
+            <controlPoint x="375" y="151"/>
+        </Edge>
+        <Edge color="-16776961" id="edge25" sourceNode="node18" sourcePin="2" targetNode="node7" targetPin="30">
+            <controlPoint x="823" y="983"/>
+            <controlPoint x="1009" y="984"/>
+            <controlPoint x="1009" y="856"/>
+            <controlPoint x="380" y="856"/>
+            <controlPoint x="380" y="223"/>
+            <controlPoint x="384" y="223"/>
+        </Edge>
+        <Edge color="-16776961" id="edge60" sourceNode="node18" sourcePin="2" targetNode="0" targetPin="33">
+            <controlPoint x="823" y="983"/>
+            <controlPoint x="879" y="983"/>
+            <controlPoint x="879" y="890"/>
+            <controlPoint x="327" y="890"/>
+            <controlPoint x="327" y="781"/>
+            <controlPoint x="399" y="781"/>
+        </Edge>
+        <Edge color="-16776961" id="edge41" sourceNode="node23" sourcePin="4" targetNode="0" targetPin="24">
+            <controlPoint x="1761" y="931"/>
+            <controlPoint x="1786" y="931"/>
+            <controlPoint x="1786" y="867"/>
+            <controlPoint x="284" y="867"/>
+            <controlPoint x="284" y="733"/>
+            <controlPoint x="399" y="733"/>
+        </Edge>
+        <Edge color="-16776961" id="edge43" sourceNode="node7" sourcePin="39" targetNode="0" targetPin="26">
+            <controlPoint x="698" y="451"/>
+            <controlPoint x="696" y="451"/>
+            <controlPoint x="696" y="514"/>
+            <controlPoint x="395" y="514"/>
+            <controlPoint x="395" y="745"/>
+            <controlPoint x="399" y="745"/>
+        </Edge>
+        <Edge color="-16776961" id="edge7" sourceNode="node7" sourcePin="14" targetNode="0" targetPin="0">
+            <controlPoint x="698" y="295"/>
+            <controlPoint x="696" y="295"/>
+            <controlPoint x="696" y="514"/>
+            <controlPoint x="395" y="514"/>
+            <controlPoint x="395" y="565"/>
+            <controlPoint x="399" y="565"/>
+        </Edge>
         <Edge color="-16776961" id="edge14" sourceNode="0" sourcePin="3" targetNode="node10" targetPin="0">
-            <controlPoint x="709" y="565"/>
-            <controlPoint x="1135" y="565"/>
-            <controlPoint x="1135" y="55"/>
+            <controlPoint x="798" y="565"/>
+            <controlPoint x="1224" y="565"/>
+            <controlPoint x="1224" y="55"/>
             <controlPoint x="1638" y="55"/>
         </Edge>
-        <Edge color="-16776961" id="edge21" sourceNode="0" sourcePin="15" targetNode="node17" targetPin="0">
-            <controlPoint x="709" y="637"/>
-            <controlPoint x="1151" y="637"/>
-            <controlPoint x="1151" y="755"/>
-            <controlPoint x="1638" y="755"/>
+        <Edge color="-16776961" id="edge54" sourceNode="node20" sourcePin="6" targetNode="0" targetPin="36">
+            <controlPoint x="373" y="1040"/>
+            <controlPoint x="389" y="1039"/>
+            <controlPoint x="389" y="817"/>
+            <controlPoint x="390" y="817"/>
+        </Edge>
+        <Edge color="-16776961" id="edge16" sourceNode="0" sourcePin="13" targetNode="node11" targetPin="0">
+            <controlPoint x="798" y="613"/>
+            <controlPoint x="1224" y="613"/>
+            <controlPoint x="1224" y="155"/>
+            <controlPoint x="1638" y="155"/>
+        </Edge>
+        <Edge color="-16776961" id="edge31" sourceNode="node7" sourcePin="28" targetNode="node18" targetPin="5">
+            <controlPoint x="698" y="391"/>
+            <controlPoint x="766" y="391"/>
+            <controlPoint x="766" y="916"/>
+            <controlPoint x="449" y="916"/>
+            <controlPoint x="449" y="983"/>
+            <controlPoint x="537" y="983"/>
+        </Edge>
+        <Edge color="-16776961" id="edge37" sourceNode="node4" sourcePin="0" targetNode="0" targetPin="22">
+            <controlPoint x="209" y="308"/>
+            <controlPoint x="277" y="308"/>
+            <controlPoint x="277" y="721"/>
+            <controlPoint x="390" y="721"/>
+        </Edge>
+        <Edge color="-16776961" id="edge3" sourceNode="node2" sourcePin="0" targetNode="0" targetPin="1">
+            <controlPoint x="195" y="111"/>
+            <controlPoint x="299" y="111"/>
+            <controlPoint x="299" y="577"/>
+            <controlPoint x="390" y="577"/>
+        </Edge>
+        <Edge color="-16776961" id="edge46" sourceNode="0" sourcePin="29" targetNode="node7" targetPin="37">
+            <controlPoint x="789" y="721"/>
+            <controlPoint x="787" y="721"/>
+            <controlPoint x="787" y="514"/>
+            <controlPoint x="380" y="514"/>
+            <controlPoint x="380" y="271"/>
+            <controlPoint x="384" y="271"/>
+        </Edge>
+        <Edge color="-16776961" id="edge51" sourceNode="0" sourcePin="32" targetNode="node23" targetPin="2">
+            <controlPoint x="798" y="733"/>
+            <controlPoint x="1156" y="733"/>
+            <controlPoint x="1156" y="931"/>
+            <controlPoint x="1502" y="931"/>
+        </Edge>
+        <Edge color="-16776961" id="edge8" sourceNode="node7" sourcePin="15" targetNode="node14" targetPin="0">
+            <controlPoint x="707" y="307"/>
+            <controlPoint x="1179" y="307"/>
+            <controlPoint x="1179" y="455"/>
+            <controlPoint x="1638" y="455"/>
+        </Edge>
+        <Edge color="-16776961" id="edge49" sourceNode="node5" sourcePin="0" targetNode="node7" targetPin="21">
+            <controlPoint x="213" y="413"/>
+            <controlPoint x="300" y="413"/>
+            <controlPoint x="300" y="175"/>
+            <controlPoint x="375" y="175"/>
+        </Edge>
+        <Edge color="-16776961" id="edge10" sourceNode="node7" sourcePin="19" targetNode="0" targetPin="8">
+            <controlPoint x="698" y="331"/>
+            <controlPoint x="696" y="331"/>
+            <controlPoint x="696" y="514"/>
+            <controlPoint x="395" y="514"/>
+            <controlPoint x="395" y="637"/>
+            <controlPoint x="399" y="637"/>
+        </Edge>
+        <Edge color="-16776961" id="edge15" sourceNode="0" sourcePin="4" targetNode="node12" targetPin="0">
+            <controlPoint x="798" y="577"/>
+            <controlPoint x="1224" y="577"/>
+            <controlPoint x="1224" y="255"/>
+            <controlPoint x="1638" y="255"/>
+        </Edge>
+        <Edge color="-16776961" id="edge11" sourceNode="node7" sourcePin="20" targetNode="0" targetPin="9">
+            <controlPoint x="698" y="343"/>
+            <controlPoint x="696" y="343"/>
+            <controlPoint x="696" y="514"/>
+            <controlPoint x="395" y="514"/>
+            <controlPoint x="395" y="649"/>
+            <controlPoint x="399" y="649"/>
+        </Edge>
+        <Edge color="-16776961" id="edge28" sourceNode="node7" sourcePin="27" targetNode="0" targetPin="18">
+            <controlPoint x="698" y="379"/>
+            <controlPoint x="696" y="379"/>
+            <controlPoint x="696" y="514"/>
+            <controlPoint x="395" y="514"/>
+            <controlPoint x="395" y="697"/>
+            <controlPoint x="399" y="697"/>
+        </Edge>
+        <Edge color="-16776961" id="edge4" sourceNode="node3" sourcePin="0" targetNode="0" targetPin="2">
+            <controlPoint x="172" y="210"/>
+            <controlPoint x="287" y="210"/>
+            <controlPoint x="287" y="589"/>
+            <controlPoint x="390" y="589"/>
+        </Edge>
+        <Edge color="-16776961" id="edge12" sourceNode="node7" sourcePin="22" targetNode="0" targetPin="10">
+            <controlPoint x="698" y="355"/>
+            <controlPoint x="696" y="355"/>
+            <controlPoint x="696" y="514"/>
+            <controlPoint x="395" y="514"/>
+            <controlPoint x="395" y="661"/>
+            <controlPoint x="399" y="661"/>
         </Edge>
     </Scene>
 </Project>
