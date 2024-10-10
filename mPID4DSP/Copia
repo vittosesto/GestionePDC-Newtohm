@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Copy>
-    <Scene edgeIDcounter="89" nodeIDcounter="88" subSystemIDCounter="419" version="7.2.5">
-        <Node ImplicitOperand="-50" address="3150" comment="Comment" id="node87" subType="IF_GT" type="IF" x="86" y="219"/>
+    <Scene edgeIDcounter="117" nodeIDcounter="122" subSystemIDCounter="424" version="7.2.5">
+        <Node NOfOutputs="4" address="3275" comment="Comment" id="node122" type="BinaryDecoder" x="475" y="1703"/>
     </Scene>
 </Copy>
