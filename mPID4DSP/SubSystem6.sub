@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><Project>
+    <Scene edgeIDcounter="20" nodeIDcounter="21" subSystemIDCounter="438" version="7.2.5">
+        <Node comment="chiamataPDC" id="node10" parentPINIdx="6" type="OUT" x="1141" y="265"/>
+        <Node NOfInputs="2" address="3475" comment="Avvio" id="node11" subType="AND" type="Logic" x="599" y="87"/>
+        <Node AmountToCount="0" RetainTime="false" TimerBase="Sec." TimerBaseIndex="0" address="3525" comment="Comment" id="node13" type="Timer" x="626" y="542"/>
+        <Node ImplicitOperand="0.0" address="3550" comment="Comment" id="node14" subType="IF_GT" type="IF" x="145" y="422"/>
+        <Node NOfInputs="2" address="3575" comment="Comment" id="node15" subType="AND" type="Logic" x="408" y="389"/>
+        <Node NOfInputs="2" address="3600" comment="Comment" id="node16" subType="OR" type="Logic" x="870" y="292"/>
+        <Node BandMinus="2" BandPlus="0" InvertLevels="false" MaxOutput="1.0" MinOutput="0.0" Setpoint="45" address="3500" comment="Comment" id="node17" type="Hysteresys2" x="354" y="195"/>
+        <Node comment="nCompressori" id="node2" parentPINIdx="0" type="IN" x="31" y="422"/>
+        <Node comment="chiamata" id="node3" parentPINIdx="1" type="IN" x="23" y="22"/>
+        <Node comment="Tinerziale" id="node4" parentPINIdx="2" type="IN" x="21" y="117"/>
+        <Node comment="setT" id="node5" parentPINIdx="3" type="IN" x="22" y="199"/>
+        <Node comment="isteresi" id="node6" parentPINIdx="4" type="IN" x="13" y="265"/>
+        <Node comment="ritardoOFF" id="node8" parentPINIdx="5" type="IN" x="38" y="552"/>
+        <Edge color="-16776961" id="edge17" sourceNode="node17" sourcePin="0" targetNode="node11" targetPin="2">
+            <controlPoint x="631" y="204"/>
+            <controlPoint x="604" y="204"/>
+            <controlPoint x="604" y="212"/>
+            <controlPoint x="612" y="212"/>
+            <controlPoint x="612" y="106"/>
+            <controlPoint x="615" y="106"/>
+        </Edge>
+        <Edge color="-16776961" id="edge9" sourceNode="node15" sourcePin="0" targetNode="node13" targetPin="1">
+            <controlPoint x="623" y="398"/>
+            <controlPoint x="619" y="398"/>
+            <controlPoint x="619" y="551"/>
+            <controlPoint x="630" y="551"/>
+        </Edge>
+        <Edge color="-16776961" id="edge14" sourceNode="node4" sourcePin="0" targetNode="node17" targetPin="1">
+            <controlPoint x="104" y="126"/>
+            <controlPoint x="256" y="126"/>
+            <controlPoint x="256" y="204"/>
+            <controlPoint x="358" y="204"/>
+        </Edge>
+        <Edge color="-16776961" id="edge15" sourceNode="node5" sourcePin="0" targetNode="node17" targetPin="2">
+            <controlPoint x="105" y="208"/>
+            <controlPoint x="256" y="208"/>
+            <controlPoint x="256" y="214"/>
+            <controlPoint x="358" y="214"/>
+        </Edge>
+        <Edge color="-16776961" id="edge8" sourceNode="node14" sourcePin="0" targetNode="node15" targetPin="2">
+            <controlPoint x="354" y="431"/>
+            <controlPoint x="383" y="431"/>
+            <controlPoint x="383" y="408"/>
+            <controlPoint x="412" y="408"/>
+        </Edge>
+        <Edge color="-16776961" id="edge5" sourceNode="node8" sourcePin="0" targetNode="node13" targetPin="5">
+            <controlPoint x="121" y="561"/>
+            <controlPoint x="398" y="561"/>
+            <controlPoint x="398" y="571"/>
+            <controlPoint x="630" y="571"/>
+        </Edge>
+        <Edge color="-16776961" id="edge1" sourceNode="node3" sourcePin="0" targetNode="node11" targetPin="1">
+            <controlPoint x="106" y="31"/>
+            <controlPoint x="377" y="31"/>
+            <controlPoint x="377" y="96"/>
+            <controlPoint x="603" y="96"/>
+        </Edge>
+        <Edge color="-16776961" id="edge10" sourceNode="node13" sourcePin="4" targetNode="node16" targetPin="2">
+            <controlPoint x="938" y="571"/>
+            <controlPoint x="1017" y="571"/>
+            <controlPoint x="1017" y="460"/>
+            <controlPoint x="792" y="460"/>
+            <controlPoint x="792" y="313"/>
+            <controlPoint x="886" y="311"/>
+        </Edge>
+        <Edge color="-16776961" id="edge13" sourceNode="node16" sourcePin="0" targetNode="node10" targetPin="0">
+            <controlPoint x="1085" y="301"/>
+            <controlPoint x="1108" y="301"/>
+            <controlPoint x="1108" y="274"/>
+            <controlPoint x="1145" y="274"/>
+        </Edge>
+        <Edge color="-16776961" id="edge7" sourceNode="node3" sourcePin="0" targetNode="node15" targetPin="1">
+            <controlPoint x="106" y="31"/>
+            <controlPoint x="281" y="31"/>
+            <controlPoint x="281" y="398"/>
+            <controlPoint x="412" y="398"/>
+        </Edge>
+        <Edge color="-16776961" id="edge16" sourceNode="node6" sourcePin="0" targetNode="node17" targetPin="6">
+            <controlPoint x="96" y="274"/>
+            <controlPoint x="249" y="274"/>
+            <controlPoint x="249" y="254"/>
+            <controlPoint x="358" y="254"/>
+        </Edge>
+        <Edge color="-16776961" id="edge12" sourceNode="node11" sourcePin="0" targetNode="node16" targetPin="1">
+            <controlPoint x="814" y="96"/>
+            <controlPoint x="837" y="96"/>
+            <controlPoint x="837" y="301"/>
+            <controlPoint x="874" y="301"/>
+        </Edge>
+        <Edge color="-16776961" id="edge6" sourceNode="node2" sourcePin="0" targetNode="node14" targetPin="1">
+            <controlPoint x="114" y="431"/>
+            <controlPoint x="149" y="431"/>
+        </Edge>
+    </Scene>
+</Project>
