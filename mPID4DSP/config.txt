@@ -33,8 +33,7 @@
 <BL add 18 3250 1 1925-4 2 1.0 0.0  >
 <BL add 10 3450 4 3275-2 3275-3 3300-0 3300-1 1.0 0.0 1 >
 <BL add 9 2950 2 525-0 550-0 2.0 >
-<BL add 17 2900 3 650-20 0-0 650-19 2 60.0 0.0  >
-<BL add 47 1250 7 500-0 2900-0 0-0 0-0 0-0 650-18 0-0 48 1 0 0 4 0 >
+<BL add 47 1250 7 500-0 650-19 0-0 0-0 0-0 650-18 0-0 48 1 0 0 4 0 >
 <BL add 8 3375 0 8 1.0 >
 <BL add 9 1325 2 1300-0 1250-0 1.0 >
 <BL add 9 1175 3 1150-0 2950-0 650-20 1.0 >
@@ -50,7 +49,7 @@
 <BL add 9 1425 2 1275-0 3400-0 1.0 >
 <BL add 47 1350 7 500-0 650-17 0-0 0-0 0-0 650-27 0-0 70 1 0 1 1 0 >
 <BL add 9 1375 2 600-0 1350-0 1.0 >
-<BL add 47 1450 7 500-0 2900-0 0-0 0-0 0-0 650-15 0-0 48 1 0 0 5 0 >
+<BL add 47 1450 7 500-0 650-19 0-0 0-0 0-0 650-15 0-0 48 1 0 0 5 0 >
 <BL add 9 1225 2 650-16 1450-0 1.0 >
 <BL add 8 1650 0 2 1.0 >
 <BL add 20 3325 3 1425-0 3350-0 0-0 1.0 0.0 >
@@ -110,7 +109,7 @@
 <BL set 1875 1 17062 3 0 >
 <BL set 1875 1 17074 3 0 >
 <BL set 1875 1 17578 3 0 >
-<BL add 39 1925 2 x 6 2 1.0 1.0 0 0 65535 65535 5000 60 1 5 16 250 14 0 0 0 0 0 0 0 502 >
+<BL add 39 1925 2 x 6 2 1 1 0 0 65535 65535 5000 60 1 5 16 250 14 0 0 0 0 0 0 0 502 >
 <BL setIn 1925 0 0 0  >
 <BL setIn 1925 1 1975 0  >
 <BL set 1925 1 36608 3 0 >
@@ -120,19 +119,15 @@
 <BL set 1925 1 33286 3 0 >
 <BL set 1925 1 33455 3 0 >
 <BL set 1925 1 34053 3 0 >
-<BL add 39 2975 5 x 2 2 0 1 0 0 65535 65535 200 10 1 5 6 250 14 0 0 0 0 0 0 0 502 >
+<BL add 39 2975 3 x 2 2 0.0 1.0 0 0 65535 65535 200 10 1 5 6 250 14 0 0 0 0 0 0 0 502 >
 <BL setIn 2975 0 0 0  >
 <BL setIn 2975 1 1325 0  >
 <BL setIn 2975 2 2600 0  >
-<BL setIn 2975 3 650 31  >
-<BL setIn 2975 4 650 32  >
 <BL set 2975 2 102 6 0 >
 <BL set 2975 2 101 6 0 >
 <BL set 2975 2 101 3 0 >
-<BL set 2975 2 103 6 0 >
-<BL set 2975 2 104 6 0 >
 <BL set 2975 3 1 3 0 >
-<BL add 52 650 22 x 33 0 >
+<BL add 52 650 22 x 30 0 >
 <BL setIn 650 0 0 0  >
 <BL setIn 650 1 500 0  >
 <BL setIn 650 2 1400 0  >
@@ -156,11 +151,11 @@
 <BL setIn 650 20 3300 0  >
 <BL setIn 650 21 3300 1  >
 <BL set 650 1 Accumulo NewMenu 3 0 0 0 8 >
+<BL set 650 0 Usa_PDC0-Serp1 0 1 1 1 2 16 0 PDC=0_Serp=1 3 >
+<BL set 650 0 Setpoint 30 90 1 55 2 19 0 NewItem 3 >
 <BL set 650 0 Temperatura -99.0 99.0 0.0 0 0 1 0 NewItem 3 >
 <BL set 650 0 Serpentina -99.0 99.0 0.0 0 1 2 0 NewItem 3 >
-<BL set 650 0 Setpoint 30 90 1 53 2 19 0 NewItem 3 >
-<BL set 650 0 HystPDC 0 99 1 2 2 18 0 NewItem 3 >
-<BL set 650 0 UsaSoloSerp 0 1 1 0 2 16 0 NewItem 3 >
+<BL set 650 0 HystPDC 0 99 1 6 2 18 0 NewItem 3 >
 <BL set 650 0 HystSerp 0 99 1 3 2 15 0 NewItem 3 >
 <BL set 650 0 TMaxSovrapprod 20 90 1 30 2 17 0 NewItem 3 >
 <BL set 650 0 HystSovrapprod 0 99 1 1 2 27 0 NewItem 3 >
@@ -177,7 +172,7 @@
 <BL set 650 0 Compressore2 -99.0 99.0 0.0 0 1 19 0 NewItem 5 >
 <BL set 650 0 Compressore3 -99.0 99.0 0.0 0 1 20 0 NewItem 5 >
 <BL set 650 0 Compressore4 -99.0 99.0 0.0 0 1 21 0 NewItem 5 >
-<BL set 650 0 Stato 0 1 1 1 2 20 0 NewItem 4 >
+<BL set 650 0 Stato 0 1 1 0 2 20 0 NewItem 4 >
 <BL set 650 0 Allarme 0 0 0.0 0 0 9 0 NewItem 4 >
 <BL set 650 0 SetFreddo 5 20 1 12 0 21 0 NewItem 4 >
 <BL set 650 0 Setcaldo 5 55 1 44 0 22 0 NewItem 4 >
@@ -197,9 +192,6 @@
 <BL set 650 0 CHiamataP2 -99.0 99.0 0.0 0 1 11 0 NewItem 0 >
 <BL set 650 0 TInerziale -99.0 99.0 0.0 0 0 10 0 NewItem 0 >
 <BL set 650 0 CheckEXP2 -99.0 99.0 0.0 0 0 12 64 NewItem 0 >
-<BL set 650 0 101 0 1 1 0 1 30 0 NewItem 0 >
-<BL set 650 0 103 0 1 1 0 1 31 0 NewItem 0 >
-<BL set 650 0 104 0 1 1 0 1 32 0 NewItem 0 >
 <BL set 801 0>
 <BL set 802 0 >
 <BL add 2 950 3 1600-0 0-0 0-0 0.0 0.0 0.0 >
@@ -213,7 +205,7 @@
 <BL add 4 900 3 0-0 0-0 0-0 0 >
 <BL add 4 925 3 0-0 0-0 0-0 1 >
 <BL tmr 0 rem >
-<BL set 0 556765>
+<BL set 0 772198>
 <BL save >
-<PT set 2 2 0 0 2 0 >
+<PT set 2 1 0 0 2 0 >
 <RESET >
